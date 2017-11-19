@@ -1,6 +1,4 @@
-/* Submitted by: Sarangdeep Singh
- * email id: ssingh53@uncc.edu
- */
+
 
 package org.myorg;
 
